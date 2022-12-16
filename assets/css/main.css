@@ -3881,8 +3881,8 @@ input, select, textarea {
 
 		  .column > .member {
 			border-radius: 50%;
-			outline: solid 2px #f5f4ec;
-			outline-offset: 4px;
+			border: solid 2px #f5f4ec;
+			padding: 4px;
 		  }
 		  
 		  /* Clear floats after rows */
