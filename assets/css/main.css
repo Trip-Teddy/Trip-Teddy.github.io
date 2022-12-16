@@ -1906,7 +1906,7 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
-		@media screen and (max-width: 736px) {
+		/* @media screen and (max-width: 736px) {
 
 			input[type="submit"],
 			input[type="reset"],
@@ -1916,7 +1916,7 @@ input, select, textarea {
 				min-width: 0;
 			}
 
-		}
+		} */
 
 	input[type="submit"],
 	input[type="reset"],
